@@ -35,8 +35,7 @@ The client has 4 retail outlets, 2 in region A and 2 in region B.<br>
 * Purchase Cost = Wholesale Cost * Item Purhased<br>
 * Shipping Costs = number of Items Purchased * shipping cost per item<br>
 * Total Costs = Purchase cost + Shipping Cost<br>
-* Retail Price (Per Unit) = Wholesale Cost + Shipping Cost per item + 50% markup<br>
-    = (Wholesale Cost + Shipping Cost per item) * 150%<br>
+* Retail Price (Per Unit) = Wholesale Cost + Shipping Cost per item + 50% markup = (Wholesale Cost + Shipping Cost per item) * 150%<br>
 * Revenue = Retail Price (per unit) * Items Sold<br>
 * Profit = Revenue - Total Cost<br>
 * Gross Profit Margin = (Total Revenue – Total Costs)/Total Revenue<br>
