@@ -4,7 +4,7 @@ This repository contains all the projects completed as part of the Microsoft Pow
 # Microsoft Excel for Data Analysis
 Case Study:
 Adventure Works is a hypothetical manufacturing company that produce and distributes bicycles and accessories globally.
-<p> 1)* Edit a Microsoft Excel workbook, improve its readability, and formatting it to a professional standard for the Adventure Works financial data presentation. </p>
+<p> 1) * Edit a Microsoft Excel workbook, improve its readability, and formatting it to a professional standard for the Adventure Works financial data presentation. </p>
 <p>2)	Standard and Multilevel Sorting <br>
 Improve the company’s product inventory file to make data easier to read and locate. <br>
 help the company checks its inventory data for records related to a specific supplier. <br>
