@@ -10,7 +10,7 @@ Improve the company’s product inventory file to make data easier to read and l
 help the company checks its inventory data for records related to a specific supplier. <br>
 * Sorts the data by Supplier in ascending order and then by Units in Stock in descending order. 
 3)	Applying Filter feature to ask questions about the data and discover answers <br>
-Use filtering techniques to work more efficiently with large worksheets and to find answers to questions in the data. <br>
+Use filtering techniques to work more efficiently with large worksheets and to find answers to questions in the data. <br><br>
 *Applying Filter Technique on the company’s product inventory file to find: <br>
 The number of listings for gear components.	--> 20 <br>
 The number of orders placed with the supplier Z123 in 2024.    -->  6 <br>
