@@ -1,7 +1,7 @@
-# 1- Microsoft Power BI Data Analyst Professional Certificate
+# Microsoft Power BI Data Analyst Professional Certificate
 This repository contains all the projects completed as part of the Microsoft Power BI Data Analyst Professional Certificate.
 
-# Microsoft Excel for Data Analysis
+# 1- Microsoft Excel for Data Analysis
 Case Study:
 Adventure Works is a hypothetical manufacturing company that produce and distributes bicycles and accessories globally.
 
