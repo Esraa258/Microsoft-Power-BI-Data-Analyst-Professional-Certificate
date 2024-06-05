@@ -25,7 +25,7 @@ Use filtering techniques to work more efficiently with large worksheets and to f
 The client wants to order bicycle parts for their retail outlets. <br>
 Adventure Works are offering a 10% discount to the customer. <br>
 Adventure Works charges different prices for delivery based on the region that the customer outlet is in. <br>
-The client has 4 retail outlets, 2 in region A and 2 in region B.<br><br>
+The client has 4 retail outlets, 2 in region A and 2 in region B.<br>
 *Subtotal = Quantity Ordered * Cost per Unit <br>
 * client’s 10% discount = Subtotal/100*10 <br>
 * Total (excluding delivery) = (Subtotal - client’s 10% discount) * Number of Outlets <br>
