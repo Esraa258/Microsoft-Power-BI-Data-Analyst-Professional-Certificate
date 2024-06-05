@@ -1,4 +1,4 @@
-# Microsoft Power BI Data Analyst Professional Certificate
+# 1- Microsoft Power BI Data Analyst Professional Certificate
 This repository contains all the projects completed as part of the Microsoft Power BI Data Analyst Professional Certificate.
 
 # Microsoft Excel for Data Analysis
